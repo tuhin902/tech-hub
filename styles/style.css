@@ -10,7 +10,25 @@
     margin-bottom: 130px;
 }
 
+.explore-banner {
+    margin-bottom: 130px;
+}
+
 .explore-title {
     margin-top: 130px;
     margin-left: 60px;
+}
+
+.register-title {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.students-info {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.questions-detail {
+    margin-top: 130px;
 }
