@@ -1,7 +1,4 @@
-/*---------------------
- Font awesome link
----------------------- */
-<script src="https://kit.fontawesome.com/64d6d300a9.js" crossorigin="anonymous"></script>.top-banner {
+.top-banner {
     margin-bottom: 130px;
 }
 
@@ -14,12 +11,14 @@
 }
 
 .explore-banner {
+
     margin-bottom: 130px;
+    background-color: #F4FAFD;
+    ;
 }
 
 .explore-title {
     margin-top: 130px;
-    margin-left: 60px;
 }
 
 .register-title {
